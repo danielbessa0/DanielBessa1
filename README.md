@@ -1,8 +1,8 @@
-## Olá eu me chamo Daniel Bessa, sou estudante de programação.
+## Olá, Seja bem vindo(a)!
 <div align="center">
-  <a href="https://github.com/DanielBessa0">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielbessa1&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielbessa1&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+  <a href="https://github.com/danielbessa0">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielbessa0&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielbessa0&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Dani-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
